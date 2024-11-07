@@ -1,2 +1,4 @@
-## hi my name is bonta
-- I'm a student looking for work in cybersecurity
+#### hi my name is bonta
+
+### certifications
+![CBBH](./icons/cbbh.png)
