@@ -1,4 +1,4 @@
 # hi my name is bonta ![](./icons/steammocking.png ":P")
 
 ### certifications
-<a href="https://files.lor.moe/UtzHh.pdf">![CBBH](./icons/cbbh.png "CBBH")</a>
+[![](./icons/CWES-icon.png)](./imgs/CWES.png) [![](./icons/BTL1-icon.png)](./imgs/BTL1.png)
